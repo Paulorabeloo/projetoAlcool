@@ -7,3 +7,7 @@
 - Validação: Se o usuário não inserir valores válidos, o aplicativo exibirá uma mensagem solicitando a inserção de valores corretos.
 
 ### Projeto desenvolvido na faculdade.
+
+![image](https://github.com/user-attachments/assets/d619145b-381f-44b0-912d-1fa0f9182500) ![image](https://github.com/user-attachments/assets/a3eb0b67-0852-4765-9b84-de7f3e7430d4) ![image](https://github.com/user-attachments/assets/e06b3157-50b8-41dd-917b-a903d51403c5)
+
+
